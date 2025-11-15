@@ -1,6 +1,6 @@
 #authors: Alessandro Napolitano, Erika Oliveri
 """
-    Restituisce la lista degli eventi distinti presenti nei log.
+    Restituisce la lista degli utenti distinti presenti nei log.
 
     Parametri:
         logs (list[list]): lista di log; ogni log è una lista,
